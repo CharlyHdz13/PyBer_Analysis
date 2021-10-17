@@ -14,6 +14,6 @@ Moving on further with the analysis, now I will be analysing the total fare by e
 
 ![immage](https://github.com/CharlyHdz13/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-The table enables us to reference certain dates and the accurate values, but for the analysis I will be focusing more on the graph. From the graph, it is shown that the trends tend to stay around the same values for this period of time for each city type. Yes, there are fluctuations but there are no drastic uplifts or downfalls for each city type. Also we do not have any information on PyBer's policies or campaigns that occurred during this time or any big relevant events that occured during this time that can help us better understand the why of this graphs. 
+The table enables us to reference certain dates and the accurate values, but for the analysis I will be focusing more on the graph. From the graph, it is shown that the trends tend to stay around the same values for this period of time for each city type. Yes, there are fluctuations but there are no drastic uplifts or downfalls for each city type. Also we do not have any information on PyBer's policies or campaigns that occurred during this time or any big relevant events that occured during this time that can help us better understand the why of this graphs. Aside from the fact that from January to the end of February there was an overall increase in fares in the three city types.
 
 ## Summary
